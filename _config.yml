@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Daniel Franco"
   avatar           : # "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer. Generalist. Lifelong Learner"
+  bio              : "Software Engineer./n Generalist./n Lifelong Learner"
   location         : 
   email            : 
   uri              :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dfrancoce"
+  github           : "dfrancoce"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/daniel-franco-59188762/"
+  linkedin         : "daniel-franco-59188762"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
